@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-Oscar Daniel Morales Navarro
-Karime Alejandra Caballero Campos
+| Oscar Daniel Morales Navarro |
+| Karime Alejandra Caballero Campos |
 
 
 ## Objetivo general
