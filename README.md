@@ -27,6 +27,7 @@ link del prototipo: https://www.tinkercad.com/things/dggP8LEuy4Z-sensor-temperat
 este se activa cuando la temperatira esta mayor a 25°  y el humo se acerca al sensor de gas 
 
 ![image](https://github.com/Karime-Caballero/iot-sensor-humo/assets/137373510/83ab5a74-6b07-4e62-bdd3-f67ffc0481d4)
+![Imagen de WhatsApp 2024-03-21 a las 23 05 12_94a81dd2](https://github.com/Karime-Caballero/iot-sensor-humo/assets/137373510/1f5b06b0-367a-4131-8cd6-1889a120c19d)
 
 
 ## Diagrama 
