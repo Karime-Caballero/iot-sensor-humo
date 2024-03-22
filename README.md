@@ -1,3 +1,3 @@
 # iot-sensor-humo
 
-##Integrantes
+## Integrantes
